@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.zilch.payments.boundary.oubound.elastic.purchase.ElasticsearchPurchaseRepositorySpec
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.11 s - in com.zilch.payments.boundary.oubound.elastic.purchase.ElasticsearchPurchaseRepositorySpec

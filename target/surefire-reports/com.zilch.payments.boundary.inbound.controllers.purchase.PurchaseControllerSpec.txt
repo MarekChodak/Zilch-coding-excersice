@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.zilch.payments.boundary.inbound.controllers.purchase.PurchaseControllerSpec
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.533 s - in com.zilch.payments.boundary.inbound.controllers.purchase.PurchaseControllerSpec
