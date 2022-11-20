@@ -12,7 +12,7 @@ class AccountPurchasesSummarySpec extends Specification {
 
     private InMemoryPurchaseRepository purchaseRepository = new InMemoryPurchaseRepository()
 
-    AccountPurchasesSummaryService summaryService = new AccountPurchasesSummaryService(purchaseRepository)
+    private AccountPurchasesSummaryService summaryService = new AccountPurchasesSummaryService(purchaseRepository)
 
     def "should generate purchases summary report for a given account "() {
         given: "purchases for a specific account"
