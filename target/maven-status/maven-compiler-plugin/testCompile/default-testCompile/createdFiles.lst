@@ -1,0 +1,8 @@
+com/zilch/payments/PaymentsApplicationTests.class
+com/zilch/payments/boundary/oubound/mongo/MongoDbTestContainer$Initializer.class
+com/zilch/payments/boundary/oubound/mongo/MongoDbTestContainerRunner$Initializer.class
+com/zilch/payments/boundary/oubound/elastic/PaymentsElasticsearchContainer.class
+com/zilch/payments/boundary/oubound/mongo/MongoDbTestContainerRunner.class
+com/zilch/payments/boundary/oubound/elastic/ElasticsearchTestContainerRunner.class
+com/zilch/payments/boundary/oubound/mongo/MongoDbTestContainer.class
+com/zilch/payments/boundary/oubound/elastic/ElasticsearchTestContainerRunner$Initializer.class

@@ -1,0 +1,5 @@
+/Users/marekchodak/development/payments/src/test/java/com/zilch/payments/PaymentsApplicationTests.java
+/Users/marekchodak/development/payments/src/integration-tests/groovy/com/zilch/payments/boundary/oubound/elastic/PaymentsElasticsearchContainer.java
+/Users/marekchodak/development/payments/src/integration-tests/groovy/com/zilch/payments/boundary/oubound/mongo/MongoDbTestContainerRunner.java
+/Users/marekchodak/development/payments/src/integration-tests/groovy/com/zilch/payments/boundary/oubound/mongo/MongoDbTestContainer.java
+/Users/marekchodak/development/payments/src/integration-tests/groovy/com/zilch/payments/boundary/oubound/elastic/ElasticsearchTestContainerRunner.java
